@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="res">
+    <file>theater_front.png</file>
+  </qresource>
+</RCC>
