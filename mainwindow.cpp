@@ -1,7 +1,3 @@
-/*
- * Created by Hussein Almohseni
- * Incomplete Auditorium point of sale (pos) app
- */
 #include "mainwindow.h"
 
 #include <iostream>
